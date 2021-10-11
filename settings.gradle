@@ -1,0 +1,3 @@
+rootProject.name = "PdfLoad"
+include ':app'
+include ':pdf'
