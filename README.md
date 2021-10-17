@@ -6,6 +6,8 @@
 
 Copy... /pdf/src/main/assets/... all files in the path and paste it into the assert directory of your project.
 
+Check out the article for details https://juejin.cn/post/7017840637450043422
+
 ### Use
 
 ```js
