@@ -4,7 +4,7 @@
 
 ### Including in your project
 
-Copy... /pdf/src/main/assets/... all files in the path
+Copy... /pdf/src/main/assets/... all files in the path and paste it into the assert directory of your project.
 
 ### Use
 
